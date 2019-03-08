@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLitePrueba</string>
+    <string name="nuevo_empleado">Añadir nuevo emplead@</string>
+</resources>
